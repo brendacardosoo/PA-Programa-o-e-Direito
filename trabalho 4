@@ -1,0 +1,15 @@
+Python:
+print("Olá, mundo!");
+* Python é conhecida por sua simplicidade e legibilidade. É uma linguagem de alto nível e é frequentemente usada em desenvolvimento web, automação e ciência de dados.
+Javascript:
+console.log("Olá, mundo!");
+* JavaScript é uma linguagem de script amplamente usada para desenvolvimento web. Ela permite a criação de interações dinâmicas em páginas da web e é executada no navegador do usuário.
+Swift:
+import Foundation
+print("Olá, mundo!")
+* Swift é uma linguagem de programação desenvolvida pela Apple para o desenvolvimento de aplicativos iOS, macOS, watchOS e tvOS. Ela é conhecida por sua segurança e desempenho.
+
+Para executar esses códigos:
+* No caso de Python, você pode simplesmente copiar e colar o código em um ambiente Python (como o IDLE) e executá-lo.
+* Para JavaScript, você pode incorporar o código em um arquivo HTML e abrir no navegador ou usar um ambiente como o Node.js para executá-lo no servidor.
+* Para Swift, você precisará do ambiente de desenvolvimento Xcode (disponível apenas em sistemas macOS) para compilar e executar o código.
